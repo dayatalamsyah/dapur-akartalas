@@ -11,7 +11,6 @@ export default function Home() {
   return (
     <main>
       <Header />
-
       {/* Hero Section */}
       <section
         className="min-h-screen bg-no-repeat bg-right-top bg-contain"
